@@ -28,10 +28,6 @@
   <img src="https://github-readme-stats-ten-lilac-32.vercel.app/api?username=NguyenVuAnNhan&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-psi-mocha.vercel.app?user=NguyenVuAnNhan&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### Streak Stats
