@@ -32,7 +32,7 @@
 
 ### Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NguyenVuAnNhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=NguyenVuAnNhan&theme=tokyonight&hide_border=true&cache_seconds=86400"" alt="GitHub Streak" />
 </p>
 
 ---
