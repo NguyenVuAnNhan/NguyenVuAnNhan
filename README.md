@@ -25,11 +25,11 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenVuAnNhan&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats-ten-lilac-32.vercel.app/api?username=NguyenVuAnNhan&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVuAnNhan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-psi-mocha.vercel.app?user=NguyenVuAnNhan&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
 ---
